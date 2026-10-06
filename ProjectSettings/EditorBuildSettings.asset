@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Plantas/Menu_Principal.unity
+    guid: da64912b9cf25a446b0cce9e13c273c2
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Menu_Solar.unity
+    guid: 8a57b66124f737b419059f5da96c7ec7
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar1.unity
+    guid: 5f299f9e98ee4f7409634093412c534f
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar2.unity
+    guid: 479e313f427726d4ea3163a71e9a8cd9
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar3.unity
+    guid: c1d5bda824d33d84b93e2ce99301e858
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar4.unity
+    guid: d6483c39efeaf9e4cbe406235d55c788
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar5.unity
+    guid: 7be295c35b5617046a3029acd03477c5
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar6.unity
+    guid: c46baf780826028429e0e704822e5b27
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar7.unity
+    guid: c81f823b2935e0e478797bba8ad82ce2
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar8.unity
+    guid: 3c593672bd0e1e8429dfa7f009504ec9
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar9.unity
+    guid: 5af0c596ee0c7f94eb6754cfc63b3835
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar10.unity
+    guid: abe8fbca693bb0b4d95220120f00924e
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar11.unity
+    guid: f1acf7548f9ad9540858d502ad47d64f
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar12.unity
+    guid: dc51d8dc28bf07940a1dbea87b932319
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar13.unity
+    guid: 6eda421912ad9c047b0d9ed5f2dd46a9
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar14.unity
+    guid: e8c4cd33d8f64d642b1756d771317ccd
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar15.unity
+    guid: 7dcccce1cd5e808458bd0db45773a7d4
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar16.unity
+    guid: d8e8dfbb08d783549a699ec7fa7dde95
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar17.unity
+    guid: f2b348b9fdc7ba1418812831576e48ef
+  - enabled: 1
+    path: Assets/Scenes/Plantas/SolarHorusEnergy/Solar18.unity
+    guid: 252cbf722101f1645b5e07e7e51251f4
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/Menu_Eolica.unity
+    guid: 95c7ed6f1f5545f4ca09b449a8a207e6
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO1.unity
+    guid: 33d54434ede723f4493714cf5f033b9a
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO2.unity
+    guid: 5dc1758d20ed66246b11997dcd4c6e76
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO3.unity
+    guid: 8ce548d5549a76f41ae4a060cbb91341
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO4.unity
+    guid: e9dda9304ab011140b80198020e06fd5
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO5.unity
+    guid: 8ccee30d9df95ed439da282139350469
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO6.unity
+    guid: ddd97df2c03cff14a966d901c0bdcf59
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO7.unity
+    guid: 45712c816d2445a4893d0c26b6640ebc
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO8.unity
+    guid: 56a951af1ed33594c8e5b8b17a6e050d
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO9.unity
+    guid: 1e562aa1433cd7d4791c948dfecae7fd
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO10.unity
+    guid: 6c6393735a06fa942afb792ea34d69b8
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO11.unity
+    guid: cac194228eb74e34396f750d1d199a8f
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO12.unity
+    guid: 5044702f76feb204dac053eca4e45ab6
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO13.unity
+    guid: 3437fdf332635c74bb09fb25120358ff
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO14.unity
+    guid: 7518b497d7a8a0045ac0c72687039513
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO15.unity
+    guid: 00333fb8588b1164384b237a606397e3
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO16.unity
+    guid: 0f4bb7e9510f66041841aabf51e09b33
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO17.unity
+    guid: 470d9ac6c5ec998439482a97769dcd1e
+  - enabled: 1
+    path: Assets/Scenes/Plantas/EolicaSanAntonio/EO18.unity
+    guid: 0c745297c0a910840bc801e242b31d20
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
